@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Not my site',
-  tagline: 'Again',
+  tagline: 'Still trying',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
